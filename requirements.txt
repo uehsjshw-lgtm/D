@@ -1,0 +1,6 @@
+tensorflow
+os
+numpy
+cv2
+matplotlib.pyplot
+shutil
